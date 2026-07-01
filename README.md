@@ -300,24 +300,6 @@ The following enhancements can further improve the project:
 
 ---
 
-# 💡 Key Learning Outcomes
-
-Through this project, the following concepts were implemented and understood:
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Feature Engineering
-- Feature Selection
-- Machine Learning Algorithms
-- Hyperparameter Tuning
-- Model Evaluation
-- Model Deployment
-- Streamlit Application Development
-- GitHub Project Management
-
----
-
 # 📌 Applications
 
 This project can be used in:
@@ -340,28 +322,4 @@ This project can be used in:
 
 ---
 
-# ⭐ Repository Features
 
-✔ End-to-End Machine Learning Project
-
-✔ IEEE-CIS Fraud Detection Dataset
-
-✔ Complete Data Preprocessing
-
-✔ Feature Engineering
-
-✔ Multiple Machine Learning Models
-
-✔ Hyperparameter Tuning
-
-✔ Interactive Streamlit Dashboard
-
-✔ Batch CSV Prediction
-
-✔ Download Prediction Results
-
-✔ GitHub Ready
-
-✔ Resume Ready
-
-✔ Industry-Oriented Project
