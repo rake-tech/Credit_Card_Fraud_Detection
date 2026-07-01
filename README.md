@@ -214,6 +214,18 @@ The dashboard includes:
 - Interactive Visualizations
 - Fraud Distribution Charts
 
+-Home Page 
+<img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/c5f7ee0c-d802-4998-b889-b61df279039f" />
+
+Prediction
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/809def84-cce8-4e83-92ee-2f516bfdecf5" />
+
+Dashboard
+<img width="1592" height="740" alt="image" src="https://github.com/user-attachments/assets/1c6f0f77-416f-46c5-bdc7-bd5708394183" />
+
+Model Information
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/4f5917d2-ab58-4f9b-bffa-8846063eb826" />
+
 ---
 
 # 📁 Project Structure
